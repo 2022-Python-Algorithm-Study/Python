@@ -1,4 +1,4 @@
-#2022 파이썬 알고리즘 스터디입니다.
+# 2022 파이썬 알고리즘 스터디입니다.
 
 * 기간: 2022년 6월~
 * 참고 사이트: https://www.w3schools.com/python/ , https://www.youtube.com/watch?v=EQrjeVgroF8 
